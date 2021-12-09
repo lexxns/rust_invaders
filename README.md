@@ -1,2 +1,2 @@
 Rust based space invaders,
-based on a tutorial by Nathan Stocks
+expanded on from a tutorial by Nathan Stocks
